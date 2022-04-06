@@ -1,0 +1,16 @@
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\bin\Debug\net5.0\TicTacToe_boardgame.exe
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\bin\Debug\net5.0\TicTacToe_boardgame.deps.json
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\bin\Debug\net5.0\TicTacToe_boardgame.runtimeconfig.json
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\bin\Debug\net5.0\TicTacToe_boardgame.runtimeconfig.dev.json
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\bin\Debug\net5.0\TicTacToe_boardgame.dll
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\bin\Debug\net5.0\ref\TicTacToe_boardgame.dll
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\bin\Debug\net5.0\TicTacToe_boardgame.pdb
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\TicTacToe_boardgame.csproj.AssemblyReference.cache
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\TicTacToe_boardgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\TicTacToe_boardgame.AssemblyInfoInputs.cache
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\TicTacToe_boardgame.AssemblyInfo.cs
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\TicTacToe_boardgame.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\TicTacToe_boardgame.dll
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\ref\TicTacToe_boardgame.dll
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\TicTacToe_boardgame.pdb
+C:\Users\HFGF\Source\Repos\TicTacToe_boardgame\TicTacToe_boardgame\obj\Debug\net5.0\TicTacToe_boardgame.genruntimeconfig.cache

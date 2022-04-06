@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniellykke/RiderProjects/TicTacToe_boardgame/TicTacToe_boardgame/TicTacToe_boardgame.csproj": {}
+    "C:\\Users\\HFGF\\Source\\Repos\\TicTacToe_boardgame\\TicTacToe_boardgame\\TicTacToe_boardgame.csproj": {}
   },
   "projects": {
-    "/Users/daniellykke/RiderProjects/TicTacToe_boardgame/TicTacToe_boardgame/TicTacToe_boardgame.csproj": {
+    "C:\\Users\\HFGF\\Source\\Repos\\TicTacToe_boardgame\\TicTacToe_boardgame\\TicTacToe_boardgame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniellykke/RiderProjects/TicTacToe_boardgame/TicTacToe_boardgame/TicTacToe_boardgame.csproj",
+        "projectUniqueName": "C:\\Users\\HFGF\\Source\\Repos\\TicTacToe_boardgame\\TicTacToe_boardgame\\TicTacToe_boardgame.csproj",
         "projectName": "TicTacToe_boardgame",
-        "projectPath": "/Users/daniellykke/RiderProjects/TicTacToe_boardgame/TicTacToe_boardgame/TicTacToe_boardgame.csproj",
-        "packagesPath": "/Users/daniellykke/.nuget/packages/",
-        "outputPath": "/Users/daniellykke/RiderProjects/TicTacToe_boardgame/TicTacToe_boardgame/obj/",
+        "projectPath": "C:\\Users\\HFGF\\Source\\Repos\\TicTacToe_boardgame\\TicTacToe_boardgame\\TicTacToe_boardgame.csproj",
+        "packagesPath": "C:\\Users\\HFGF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HFGF\\Source\\Repos\\TicTacToe_boardgame\\TicTacToe_boardgame\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/daniellykke/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HFGF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
